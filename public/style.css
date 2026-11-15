@@ -1,0 +1,12 @@
+h1{
+    color: maroon;
+}
+.post{
+    background-color: rgba(170, 244, 238, 0.145);
+}
+.user{
+    font-style: italic;
+}
+.conn{
+    background-color: bisque;
+}
